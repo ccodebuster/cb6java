@@ -2,9 +2,9 @@ package junk;
 
 public class JunkDemo {
 
-/*
-my name is bhavesh and i work 22 version
-*/
+    /*
+    my name is bhavesh and i work 22 version
+    */
     public static void main(String[] args) {
         int number= 25;
 
@@ -13,4 +13,3 @@ my name is bhavesh and i work 22 version
 
     }
 }
-git
