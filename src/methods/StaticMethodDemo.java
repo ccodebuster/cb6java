@@ -5,6 +5,8 @@ public class StaticMethodDemo {
     public static void main(String[] args) {
         name();
         addition();
+        InstanceMethods i = new InstanceMethods();
+        i.m1();
 
     }
 
