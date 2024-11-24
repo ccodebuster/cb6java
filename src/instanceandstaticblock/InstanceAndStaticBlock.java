@@ -15,8 +15,9 @@ public class InstanceAndStaticBlock {
             String name  = "Java";
             InstanceAndStaticBlock i = new InstanceAndStaticBlock();  //Create an object
             i.instancemethod();  //calling instance method using object
-            staticmethod();  //calling static method directly
-            InstanceAndStaticBlock.staticmethod();  //calling static method using class name
+          //  InstanceAndStaticBlock t = new InstanceAndStaticBlock();
+             staticmethod();  //calling static method directly
+           InstanceAndStaticBlock.staticmethod();  //calling static method using class name
         }
 
         public InstanceAndStaticBlock(){    //Declared Constructor
