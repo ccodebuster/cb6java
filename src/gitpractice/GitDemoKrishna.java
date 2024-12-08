@@ -7,7 +7,6 @@ public class GitDemoKrishna {
         System.out.println("fdsafdsa");
         System.out.println("I Love fdsafda");
         System.out.println("I Love adsf");
-        System.out.println("I Love fdas");
 
     }
 }
