@@ -18,4 +18,8 @@ public class IFStatement {
          }
 
     }
+
+    public  void getMarks(){
+        System.out.println("marks");
+    }
 }
