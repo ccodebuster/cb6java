@@ -24,7 +24,9 @@ public class StringMethods {
         System.out.println(name.charAt(3));
         System.out.println(name.replace('e','0'));
         System.out.println(name.isEmpty());
+
     }
+
 
 
 }
