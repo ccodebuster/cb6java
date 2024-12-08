@@ -1,0 +1,13 @@
+
+q
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "sum".(¨şçã
+v
+java:S1488!"[Immediately return this expression instead of assigning it to the temporary variable "pin".(¾û÷øÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "pin".(¾û÷øÿÿÿÿ
+C
+java:S1481"(Remove this unused "pin" local variable.(¾û÷øÿÿÿÿ
+S
+java:S1854 "8Remove this useless assignment to local variable "name".(¢‹Ùûÿÿÿÿ
+D
+java:S1481 ")Remove this unused "name" local variable.(¢‹Ùûÿÿÿÿ

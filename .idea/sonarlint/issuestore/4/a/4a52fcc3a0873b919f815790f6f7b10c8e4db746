@@ -1,0 +1,11 @@
+
+K
+java:S1854	"5Remove this useless assignment to local variable "t".(‚½¸Ú
+<
+java:S1481	"&Remove this unused "t" local variable.(‚½¸Ú
+V	java:S125
+"<This block of commented-out lines of code should be removed.(‹”ãåùÿÿÿÿ
+M
+java:S1854$"7Remove this useless assignment to local variable "sum".(¨þçã
+>
+java:S1481$"(Remove this unused "sum" local variable.(¨þçã
