@@ -6,5 +6,6 @@ public class GitDemoKirujan {
         System.out.println("Test");
         System.out.println("Hello");
         System.out.println("hi");
+        System.out.println("Hello");
     }
 }
