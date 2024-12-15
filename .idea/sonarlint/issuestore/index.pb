@@ -37,5 +37,13 @@ F
 src/junk/JunkDemo.java,9\c\9c94adf31d87a035a8da24f5d3cf1c6d5b8eddfd
 B
 src/junk/Test.java,4\a\4a52fcc3a0873b919f815790f6f7b10c8e4db746
+S
+#src/Gitpractice/GitDemoKirujan.java,a\e\aebd130d900b7d88d14fa81b25b797dfd12d990b
+S
+#src/Gitpractice/GitDemoKenisha.java,1\6\1604cf60e57d3df222e08219d622fc91c715e696
 Q
-!src/gotpractice/GitDemoAvani.java,f\c\fc9a0edd59589dc18650a06bf2d96212702fed35
+!src/Gitpractice/GitDemoKajal.java,3\d\3da43db8d9f17266a46a4694bc20b3ede36c4033
+R
+"src/Gitpractice/GitDemoDerron.java,5\e\5eca7b40b26387f6188eb4cde9962e0d80e5c74a
+Q
+!src/Gitpractice/GitDemoAvani.java,3\4\34a949e90984396eb772c750fbfcafd540a75d6c
