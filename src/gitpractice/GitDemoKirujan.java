@@ -8,8 +8,12 @@ public class GitDemoKirujan {
         System.out.println("hi");
         System.out.println("Hello");*/
         SecondSession();
+        m1();
     }
 
+    public static void m1(){
+        System.out.println("Hellow, this is the 3rd session on git");
+    }
 
     public static void SecondSession (){
         System.out.println("This is my secondl, Session of Git");
