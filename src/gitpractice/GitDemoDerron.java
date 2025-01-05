@@ -5,6 +5,11 @@ public class GitDemoDerron {
         System.out.println("My name is Derron");
         System.out.println("I love java");
         gitDemo();
+        gitfirst();
+    }
+
+    public static void gitfirst(){
+        System.out.println("i love git");
     }
 
     public static void gitDemo(){
